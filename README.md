@@ -1,5 +1,5 @@
 # Yung543.github.io
-<!DOCTYPE html>
+
 <html lang="uk">
 <head>
     <meta charset="UTF-8">
